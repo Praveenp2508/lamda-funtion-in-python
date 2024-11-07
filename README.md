@@ -1,0 +1,1 @@
+# lamda-funtion-in-python
